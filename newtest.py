@@ -1,1 +1,1 @@
-print('kat')
+print(kat)
