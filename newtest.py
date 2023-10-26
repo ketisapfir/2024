@@ -1,1 +1,3 @@
-print(kat)
+print("kat")
+
+print(12345)
